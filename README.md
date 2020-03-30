@@ -1,5 +1,5 @@
 # RS-Sistemas
-<h2>Política de privacidade para <a href='http://www.rssistemas.com.br'>RS Sistemas</a></h2>
+<h2>Política de privacidade para o aplicativo <a href='http://www.rssistemas.com.br'>Paróquia SJT</a></h2>
 <p>Todas as suas informações pessoais recolhidas, serão usadas para o ajudar a tornar a sua visita no nosso site o mais produtiva e agradável possível.</p>
 <p>A garantia da confidencialidade dos dados pessoais dos utilizadores do nosso site é importante para o RS Sistemas.</p>
 <p>Todas as informações pessoais relativas a membros, assinantes, clientes ou visitantes que usem o RS Sistemas serão tratadas em concordância com a Lei da Proteção de Dados Pessoais de 26 de outubro de 1998 (Lei n.º 67/98).</p>
