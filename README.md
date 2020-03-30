@@ -1,4 +1,4 @@
-# RS-Sistemas
+# Paróquia SJT
 <h2>Política de privacidade para o aplicativo <a href='http://www.rssistemas.com.br'>Paróquia SJT</a></h2>
 
 <p>O aplicativo não recolhe qualquer informação pessoal do usuário.</p>
